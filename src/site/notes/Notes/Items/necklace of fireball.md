@@ -3,4 +3,4 @@
 ---
 
 # Necklace of Fireball
-Has fireballs recharges but it's a one time use per charge I think.
+Has fireballs charges but it's a one time use per charge I think.

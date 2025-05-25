@@ -9,3 +9,4 @@ Here are all sort of creatures we discover during our adventures!
 [[Notes/Beastiary/Mandrake\|Mandrake]]
 [[Notes/Beastiary/Swarm of leeches\|Swarm of leeches]]
 [[Notes/Beastiary/Wight\|Wight]]
+[[Notes/Beastiary/Virulak\|Virulak]]
