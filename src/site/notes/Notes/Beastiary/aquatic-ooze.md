@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/beastiary/aquatic-ooze/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/notes/beastiary/aquatic-ooze/"}
 ---
 
 # Aquatic ooze
