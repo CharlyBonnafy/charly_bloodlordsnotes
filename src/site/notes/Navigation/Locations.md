@@ -11,5 +11,5 @@ As we go on our merry way, we discover new places to mess with.
 [[Notes/Locations/Nex\|Nex]]
 [[Notes/Locations/Sallowshore\|Sallowshore]]
 [[Notes/Locations/Underwater Sahni the sea bride's lair\|Underwater Sahni the sea bride's lair]]
-[[Notes/Locations/University of Yled\|University of Yled]]
+[[Notes/Locations/Twillight Castrum University\|Twillight Castrum University]]
 [[Notes/Locations/Yled\|Yled]]
