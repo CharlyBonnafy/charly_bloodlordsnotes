@@ -4,4 +4,4 @@
 
 # Nex
 
-Rival land.
+Rival land. They don't use arcane magic as much, so they use "fire and powder" magic (aka. Firearms).
